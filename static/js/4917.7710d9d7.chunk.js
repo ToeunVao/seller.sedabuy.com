@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuzmart=self.webpackChunkuzmart||[]).push([[4917],{54917:(t,e,u)=>{u.r(e),u.d(e,{default:()=>i});var s=u(28429),a=u(58974),r=u(90344),d=u(44414);const i=()=>{const{id:t}=(0,s.g)();return(0,d.jsx)(r.V,{title:"edit.shop.tag",id:t,onSubmit:e=>a.A.update(t,e)})}}}]);

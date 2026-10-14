@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuzmart=self.webpackChunkuzmart||[]).push([[3184],{23184:(t,e,s)=>{s.r(e),s.d(e,{default:()=>n});var u=s(28429),a=s(58974),r=s(90344),c=s(44414);const n=()=>{const{id:t}=(0,u.g)();return(0,c.jsx)(r.V,{title:"clone.shop.tag",id:t,onSubmit:t=>a.A.create(t)})}}}]);

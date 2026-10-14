@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuzmart=self.webpackChunkuzmart||[]).push([[78],{50078:(t,a,e)=>{e.r(a),e.d(a,{default:()=>c});var s=e(58974),u=e(90344),r=e(44414);const c=()=>(0,r.jsx)(u.V,{title:"add.shop.tag",onSubmit:t=>s.A.create(t)})}}]);
